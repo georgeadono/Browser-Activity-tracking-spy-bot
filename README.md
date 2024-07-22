@@ -1,4 +1,4 @@
-git clone https://github.com/georgeadono/Browser-Activity-tracking-spy-bot/
+git clone https://github.com/georgeadono/Browser-Activity-tracking-spy-bot
 
 npm install
 (puppeteer , playwright)
